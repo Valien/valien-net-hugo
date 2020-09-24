@@ -1,0 +1,4 @@
+baseURL = "http://valien.net/"
+languageCode = "en-us"
+title = "valien.net"
+theme = "ananke"
